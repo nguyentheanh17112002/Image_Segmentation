@@ -1,0 +1,7 @@
+{
+    "train_file_path": "data/segmentation.data", 
+    "test_file_path": "data/segmentation.test", 
+    "num_epochs": 150, 
+    "batch_size": 32, 
+    "learning_rate": 0.001
+}
