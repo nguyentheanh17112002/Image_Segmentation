@@ -20,7 +20,7 @@ conda activate env
 Next, install the required libraries specified in the `requirements.txt` file. Run the following command to install the dependencies:
 
 ```bash
-conda activate env
+pip install -r requirements.txt
 ```
 
 This will install all the libraries needed for the project to run properly.
